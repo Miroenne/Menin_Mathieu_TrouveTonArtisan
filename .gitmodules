@@ -1,0 +1,6 @@
+[submodule "Front_trouve_ton_artisan"]
+	path = Front_trouve_ton_artisan
+	url = https://github.com/Miroenne/Front_trouve_ton_artisan
+[submodule "trouve_ton_artisan"]
+	path = trouve_ton_artisan
+	url = https://github.com/Miroenne/trouve_ton_artisan
